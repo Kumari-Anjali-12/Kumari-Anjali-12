@@ -20,10 +20,10 @@ I build custom **Odoo 19** modules for purchase, inventory, HR and approval work
 My Odoo work is in private company repositories, so I can't link it. Happy to talk through it.
 
 ## 🛠️ Tech
-**Odoo & ERP:** Odoo 19, ORM, XML views, QWeb, OWL, approval workflows
-**AI / ML:** Machine Learning, Deep Learning, NLP, Computer Vision, RAG, TensorFlow, Scikit-learn
-**Languages & Web:** Python, Java, JavaScript, TypeScript, React, Express
-**Data & Tools:** PostgreSQL, MySQL, Git, Docker
+- **Odoo & ERP:** Odoo 19, ORM, XML views, QWeb, OWL, approval workflows
+- **AI / ML:** Machine Learning, Deep Learning, NLP, Computer Vision, RAG, TensorFlow, Scikit-learn
+- **Languages & Web:** Python, Java, JavaScript, TypeScript, React, Express
+- **Data & Tools:** PostgreSQL, MySQL, Git, Docker
 
 ## 🌱 Currently learning
 SAP BTP · AI/ML · Japanese (aiming for JLPT N5)
