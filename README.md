@@ -26,11 +26,35 @@ I build custom **Odoo 19** modules for purchase, inventory, HR and approval work
 - Learning SAP BTP and AI from scratch, coming from an Odoo background
 - Building AI projects at hackathons
 
-## 💼 What I do at work
-- Built multi-stage **approval workflow** and **KRA/KPI** modules in Odoo 19
-- Customized purchase, inventory, HR and CRM flows with ORM, XML views, QWeb and OWL
-- Exploring how AI and forecasting can sit on top of ERP data
-<!-- Add real numbers here if you have them, e.g. "replaced an email-based approval process" or "saves about X hours per week" -->
+## 💼 Experience
+
+### Odoo & AI Developer Intern · Nixel Software Solutions Pvt. Ltd., Pune
+*May 2026 – Nov 2026*
+
+Across 3 client projects I built custom **Odoo 19** modules, worked from client requirement documents, and fixed issues found in client testing (UAT).
+
+**1. ERP for an industrial chemicals & lubricants distributor --- Simplinity**
+- **Purchase:** multi-vendor RFQ enforcement with director override, vendor document expiry alerts, three-way match on vendor bills
+- **Inventory:** shelf-life and expiry workflows, material issue requests, delivery transporter handling, mandatory receipt verification
+- **Approvals:** multi-stage approval engine with credit-limit checks, reused across Sales, Purchase and Material Issue Requests
+- **HR:** KRA/KPI sheets with quarterly and annual reviews, role-based access and manager notifications
+- **Sales and invoicing:** mandatory validations before order confirmation, GST invoice fields that auto-fetch dispatch details
+- Built a **custom org chart** in a short time after the client was not satisfied with the standard one; praised by mentors
+- Audited the codebase and fixed 7 bugs
+
+**2. Estimation and costing system for a facade and glazing company --- Vermax**
+- **Estimation flow:** estimate-to-quotation workflow with approval stages, using the shared approval engine
+- **BOQ engine:** width, height and quantity on order lines automatically calculate area and billing quantity, tested against the client's real BOQ Excel files
+- **Cost sheet and margin engine:** 10 cost heads with live margin, and Director approval required when margin falls below 15%
+- **Roles:** access matrix for Sales, Estimator and Director, with an audit trail in the chatter
+- **Revisions:** "Revise Estimation" button that creates versions (-E1, -E2), freezes the old one and shows the cost change
+- BOQ fields carried through to manufacturing orders
+
+**3. Field service reporting for a decontamination services company --- Decontamination**
+- Built 3 client-branded PDF documents in Odoo Field Service: Service Report, Service Report (DTaT) and Service Feedback Form
+- Matched the client's Word templates exactly, with the company logo pulled in automatically
+
+**Tech:** Odoo 19, Python, ORM, XML views, QWeb, OWL, PostgreSQL, Git
 
 ## 🚀 Top projects
 | Project | What it does | Stack |
