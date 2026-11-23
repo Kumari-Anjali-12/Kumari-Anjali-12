@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Anjali Kumari 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Odoo+%26+AI+Developer;Building+ERP+%2B+AI+solutions;Learning+SAP+BTP" />
+</p>
+
+<p align="center">
   <b>Odoo & AI Developer Intern</b> @ Nixel Software Solutions<br>
   B.Tech Computer Engineering (AI & ML), Class of 2027 · Pune, India
 </p>
@@ -13,6 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=Kumari-Anjali-12&style=for-the-badge&color=blueviolet">
 </p>
 
+> 🟢 **Open to full-time roles from 2027** · Odoo / ERP Developer · AI Engineer · SAP + AI
+
 I build custom **Odoo 19** modules for purchase, inventory, HR and approval workflows, and I apply **AI** on top of business data. Currently learning **SAP BTP** to grow into SAP & AI roles.
 
 ## 🔭 What I'm working on
@@ -24,21 +30,25 @@ I build custom **Odoo 19** modules for purchase, inventory, HR and approval work
 - Built multi-stage **approval workflow** and **KRA/KPI** modules in Odoo 19
 - Customized purchase, inventory, HR and CRM flows with ORM, XML views, QWeb and OWL
 - Exploring how AI and forecasting can sit on top of ERP data
+<!-- Add real numbers here if you have them, e.g. "replaced an email-based approval process" or "saves about X hours per week" -->
 
-## 🚀 Featured projects
+## 🚀 Top projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Ask Anything: Voice RAG](https://github.com/Kumari-Anjali-12/hhg-voice-rag) | Voice-in, grounded-answer-out pipeline with five chunking strategies, FAISS hybrid retrieval and guardrails. Built at Hacker House Goa 2026. | Python, FAISS, RAG, Docker |
-| [FaceTheChain](https://github.com/Kumari-Anjali-12/FaceTheChain) | Face ID pipeline that finds a matching public post and verifies its hash on a Solidity smart contract. Built at Hacker House Goa 2026. | Python, Computer Vision, Solidity, Web3 |
+| **Demand Forecasting & Inventory Optimization Engine** | ML engine that forecasts product demand and suggests stock levels, with a local LLM assistant that explains results in plain language. Connects to **Odoo 19** and creates a draft purchase order (RFQ) automatically through the JSON-2 API. Built for the IndiaAI FutureSkills Fellowship. | Python, scikit-learn, Ollama (llama3.2), Odoo 19 API |
+| [Ask Anything: Voice RAG](https://github.com/Kumari-Anjali-12/hhg-voice-rag) | Voice-in, grounded-answer-out pipeline with five chunking strategies, FAISS hybrid retrieval and guardrails. Hacker House Goa 2026. | Python, FAISS, RAG, Docker |
+| [FaceTheChain](https://github.com/Kumari-Anjali-12/FaceTheChain) | Face ID pipeline that finds a matching public post and verifies its hash on a Solidity smart contract. Hacker House Goa 2026. | Python, Computer Vision, Solidity, Web3 |
+| **MedScribeAI** *(private, ongoing)* | Clinical documentation prototype with drug-interaction checks and an offline engine, built for Smart India Hackathon 2026 with Team AstraX. 46/46 tests passing. | React, TypeScript, Express |
 | [Mental Health Mirror](https://github.com/Kumari-Anjali-12/mental-health-mirror) | Multi-modal emotion detection using NLP and computer vision. | Python, OpenCV, TensorFlow |
-| [Demand Forecasting & Inventory Optimization](https://github.com/Kumari-Anjali-12/YOUR-REPO-NAME) | Forecasts demand and optimizes stock levels from historical data. | Python, Scikit-learn |
-| MedScribeAI *(private, ongoing)* | Full-stack clinical documentation prototype for Smart India Hackathon 2026 with Team AstraX. | React, TypeScript, Express |
+| **BTP Trial Explorer** *(in progress)* | Daily SAP BTP learning project with a Medium post per day. | SAP BTP, Cloud Foundry |
 
 My Odoo work is in private company repositories, so I can't link it. Happy to talk through it.
+<!-- When you make the Demand Forecasting repo public, turn its name into a link: [Name](https://github.com/Kumari-Anjali-12/demand-forecasting-engine) -->
 
 ## 🏆 Hackathons
 - **Hacker House Goa 2026**: built Voice RAG and FaceTheChain
 - **Smart India Hackathon 2026**: MedScribeAI with Team AstraX
+<!-- Add results (winner, finalist, etc.) if you have them -->
 
 ## 🛠️ Tech
 <p>
@@ -60,6 +70,20 @@ My Odoo work is in private company repositories, so I can't link it. Happy to ta
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumari-Anjali-12&theme=github-compact&hide_border=true" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumari-Anjali-12/Kumari-Anjali-12/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Kumari-Anjali-12/Kumari-Anjali-12/output/github-snake.svg" />
+  </picture>
+</p>
+
+## 🎓 Certifications & programs
+- 🏅 **IndiaAI FutureSkills Fellowship** (in progress)
+<!-- Add more lines like this: - 🏅 [Certificate name](link) · Issuer · Year -->
+
+## ✍️ Latest from my blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Currently learning
 SAP BTP · AI/ML · Japanese (aiming for JLPT N5)
