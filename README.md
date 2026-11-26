@@ -85,7 +85,7 @@ My Odoo work is in private company repositories, so I can't link it. Happy to ta
 
 ## 📊 GitHub stats
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Kumari-Anjali-12&theme=dark&hide_border=true" />
+  <img height="170" src="assets/streak.svg" />
 </p>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kumari-Anjali-12&show_icons=true&theme=dark&hide_border=true" />
